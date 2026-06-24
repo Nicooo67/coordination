@@ -1,0 +1,4 @@
+# OS
+.DS_Store
+
+# Les .gitignore de backend_spring/ et frontend_note/ gèrent target/, node_modules/, dist/, .angular/
